@@ -1,3 +1,13 @@
-nav {
-  
+li {
+  display: inline-block;
+}
+
+nav a:hover {
+  color: red;
+  background-color: pink;
+}
+
+nav a:activate {
+  padding-left: 5px;
+  padding-right: 5px;
 }
